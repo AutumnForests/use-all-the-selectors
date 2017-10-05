@@ -1,48 +1,63 @@
 body {
   background-color: #fdf6e3;
 }
+
 header {
   font-size: 1.5rem;
 }
+
 footer {
   font-size: 1.5rem;
 }
+
 ul {
   font-family: sans-serif;
 }
+
 h1 {
   text-transform: uppercase;
 }
+
 main {
   background-color: #eee8d5;
 }
+
 h2 {
   color: #93a1a1;
 }
+
 div p {
   background-color: #b58900;
 }
+
 div p strong {
   color: #fff;
 }
+
 ul + a {
   background-color: #719e07;
 }
+
 .no-highlight li:nth-child(3) {
   background-color: #2694d8;
 }
+
 ol + li {
   color: #2aa198;
 }
+
 ol:nth-child(3) {
   color: #2aa198;
 }
+
 .types li:nth-child(odd)  {
   background-color: #657ba3;
 }
+
 .types li:nth-child(even) {
   background-color: #586e75
 }
+
 .types li:nth-child(3n) {
   background-color: #d04b16;
 }
